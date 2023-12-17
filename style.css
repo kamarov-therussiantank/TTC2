@@ -22,7 +22,7 @@ a {
 
 a:hover {
 
-    color: fuchsia;
+    color: red;
 
 }
 
@@ -76,7 +76,7 @@ body {
 
     border-radius: 10px;
 
-    background-color: #666666;
+    background-color: #242424;
 
     background-image: linear-gradient(to bottom, rgb(37, 37, 37), rgb(139, 139, 139));
 
@@ -118,7 +118,7 @@ footer {
 
     background-color:#000;
 
-    background-image: linear-gradient(to bottom right, grey, black);
+    background-image: linear-gradient(to bottom right, #333333, #292929);
 
     margin-top:auto;
 
