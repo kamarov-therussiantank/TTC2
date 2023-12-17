@@ -1,0 +1,125 @@
+@font-face{
+
+    font-family: 'TankTrouble';
+
+    src:url('TankTrouble.eot');
+
+    src:url('TankTrouble.eot?#iefix') format('embedded-opentype'),
+
+    url('TankTrouble.ttf')  format('truetype')
+
+}
+
+
+
+a {
+
+    color: #fff;
+
+}
+
+
+
+a:hover {
+
+    color: fuchsia;
+
+}
+
+
+
+ul {
+
+    font-size:2em; 
+
+    text-align:center; 
+
+    color: #000000; 
+
+    margin:5px 25px; 
+
+    border-radius: 5px;
+
+    padding-left: 0;
+
+}
+
+
+
+html, body {
+
+    height: 100%;
+
+}
+
+
+
+body {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+
+
+::-webkit-scrollbar {
+
+    width: 12px;
+
+}
+
+
+
+::-webkit-scrollbar-thumb {
+
+    border-radius: 10px;
+
+    background-color: #666666;
+
+    background-image: linear-gradient(to bottom, rgb(37, 37, 37), rgb(139, 139, 139));
+
+}
+
+
+
+::-webkit-scrollbar-track {
+
+    background-image: linear-gradient(to bottom, rgb(139, 139, 139), rgb(37, 37, 37));
+
+}
+
+
+
+::-webkit-scrollbar-thumb:hover {
+
+    background: red;  
+
+}
+
+
+
+footer {
+
+    background-color:#000;
+
+    color:#fff5ee;
+
+    text-align:center;
+
+    font-size:1.5em;
+
+    font-weight:700;
+
+    font-family:Cambria,Cochin,Georgia,Times,'Times New Roman',serif;
+
+    position:sticky;
+
+    background-color:#000;
+
+    background-image: linear-gradient(to bottom right, grey, black);
+
+    margin-top:auto;
+
+}
