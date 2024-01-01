@@ -1,9 +1,9 @@
 # TTCV2
 
-This website is archive that serves as a treasure trove of essential source materials, code snippets, and documentation, offering a centralized and organized resource hub for my extension TankTroubleClassic-V2. 
+This website is going to be an archive of informations about TTCV2 and original TankTrouble Classic. Telling it's story, full story.
 
 # Website
-[ttcv2](https://ttcv2.pages.dev/)
+[ttcv2](https://ttcv2.pages.dev)
 
 `Editors note:`
 
