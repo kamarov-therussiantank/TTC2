@@ -1,15 +1,11 @@
-@font-face{
-
+@font-face {
     font-family: 'TankTrouble';
-
-    src:url('TankTrouble.eot');
-
-    src:url('TankTrouble.eot?#iefix') format('embedded-opentype'),
-
-    url('TankTrouble.ttf')  format('truetype')
-
+    src: url('fonts/TankTrouble.ttf') format('truetype');
 }
 
+.custom-font {
+    font-family: 'TankTrouble', sans-serif;
+}
 
 
 a {
