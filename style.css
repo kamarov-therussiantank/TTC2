@@ -65,7 +65,7 @@ body {
 
     flex-direction: column;
 
-    background-color: #474747;
+    background-color: #404040;
 
 }
 
@@ -101,7 +101,7 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
 
-    background: red;  
+    background: pink;  
 
 }
 
@@ -121,7 +121,7 @@ footer {
 
     font-family:Cambria,Cochin,Georgia,Times,'Times New Roman',serif;
 
-    position:sticky;
+    position:hover;
 
     background-color:#000;
 
