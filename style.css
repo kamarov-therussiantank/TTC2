@@ -2,6 +2,7 @@
     font-family: 'TankTrouble';
     src: url('fonts/TankTrouble.ttf') format('truetype');
 }
+
 @font-face {
     font-family: 'Atkison';
     src: url('fonts/Atkinson-Hyperlegible.ttf') format('truetype');
@@ -10,6 +11,7 @@
 .custom-font {
     font-family: 'TankTrouble', sans-serif;
 }
+
  .custom-font {
     font-family: 'Atkison', sans-serif;
  }
