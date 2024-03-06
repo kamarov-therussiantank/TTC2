@@ -8,8 +8,17 @@
     src: url('fonts/Atkinson-Hyperlegible.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'TankTroubleClassic';
+    src: url('fonts/Classic_TankTrouble_font.ttf') format('truetype');
+}
+
 .custom-font {
     font-family: 'TankTrouble', sans-serif;
+}
+
+.custom-font {
+    font-family: 'TankTroubleClassic', sans-serif;
 }
 
  .custom-font {
