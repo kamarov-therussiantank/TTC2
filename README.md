@@ -1,10 +1,4 @@
 # TTCV2
 
-This website is going to be an archive of informations about TTCV2 and original TankTrouble Classic. Telling it's story, full story.
+Official TTCV2 home page. All important intormations can be found [here](https://ttcv2.pages.dev).
 
-# Website
-[ttcv2](https://ttcv2.pages.dev)
-
-`Editors note:`
-
-Work in progress!
