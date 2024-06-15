@@ -127,3 +127,8 @@ footer {
     background-color: #000;
     background-image: linear-gradient(to bottom right, #333333, #47192a);
     margin-top: auto;
+}
+
+    .bg-dark {
+    background-color: #1a1a1a !important;
+}
