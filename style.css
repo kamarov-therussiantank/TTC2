@@ -45,17 +45,10 @@ a:hover {
 ul {
 
     font-size:2em; 
-
     text-align:center; 
-
-    color: #000000; 
-
-    margin:5px 25px; 
-
+    margin:50px 0 0 0; 
     border-radius: 5px;
-
     padding-left: 0;
-
 }
 
 
