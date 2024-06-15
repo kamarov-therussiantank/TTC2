@@ -117,25 +117,13 @@ body {
 
 
 footer {
-
-    background-color:#000;
-
-    color:#fff5ee;
-
-    text-align:center;
-
-    font-size:1.5em;
-
-    font-weight:700;
-
-    font-family:Cambria,Cochin,Georgia,Times,'Times New Roman',serif;
-
-    position:hover;
-
-    background-color:#000;
-
-    background-image: linear-gradient(to bottom right, #333333, #292929);
-
-    margin-top:auto;
-
-}
+    background-color: #000;
+    color: #fff5ee;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: hover;
+    background-color: #000;
+    background-image: linear-gradient(to bottom right, #333333, #47192a);
+    margin-top: auto;
