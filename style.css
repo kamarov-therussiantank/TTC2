@@ -142,3 +142,14 @@ footer {
     filter: drop-shadow(2px 4px 6px black);
     text-shadow: 0 0 20px #ff00af;
 }
+
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: -30px;
+    margin-top: 10px;
+    list-style: none;
+}
