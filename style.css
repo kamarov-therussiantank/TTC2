@@ -62,13 +62,10 @@ html, body {
 
 
 body {
-
     display: flex;
-
     flex-direction: column;
-
-    background-color: #000;
-
+    background-color: #080106 !important;
+    font-family: 'TankTrouble';
 }
 
 
@@ -122,13 +119,26 @@ footer {
     margin-top: auto;
 }
 
-    .bg-dark {
-    background-color: #1a1a1a !important;
+.bg-dark {
+    background-color: #2d1021 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgb(133 133 133);
+    color: rgb(179 179 179);
 }
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
     color: rgb(255 255 255);
+}
+
+ {
+    font-size: 14pt;
+    font-family: 'TankTrouble';
+    padding: 5px;
+    margin: 10px 10px 50px 10px;
+    border: 2px #870332 solid;
+    border-radius: 15px;
+    background: #0a0a0a;
+    color: #e11072;
+    filter: drop-shadow(2px 4px 6px black);
+    text-shadow: 0 0 20px #ff00af;
 }
