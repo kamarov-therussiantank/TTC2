@@ -4,5 +4,5 @@
 
 ---
 
-Official [TTCV2](https://ttcv2.pages.dev](https://github.com/kamarov-therussiantank/TTCV2) website. All important intormations about TTCV2 can be found [here](https://ttcv2.pages.dev).
+Official [TTCV2](https://github.com/kamarov-therussiantank/TTCV2) website. All important intormations about TTCV2 can be found [here](https://ttcv2.pages.dev).
 
