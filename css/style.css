@@ -4,9 +4,8 @@
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
     color: rgb(255 255 255);
 }
-
- {
-    font-size: 14pt;
+{
+    font-size: 9pt;
     font-family: 'TankTrouble';
     padding: 5px;
     margin: 10px 10px 50px 10px;
@@ -24,7 +23,7 @@
     -ms-flex-direction: column;
     flex-direction: column;
     padding-left: 0;
-    margin-bottom: -30px;
+    margin-bottom: 10px;
     margin-top: 10px;
     list-style: none;
 }
@@ -39,6 +38,6 @@
 }
 .table img {
     width: 100%;
-    max-width: 360px;
+    max-width: 360px !important;
     height: auto;
 }
